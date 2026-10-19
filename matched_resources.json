@@ -1,0 +1,70 @@
+{
+ "proposed": {
+  "full": {
+   "links": 150,
+   "rmse": 0.2484,
+   "depth_cost_m": 266.0
+  },
+  "matched_62_emissions": {
+   "links": 113,
+   "rmse": 0.2537,
+   "depth_cost_m": 226.0
+  },
+  "matched_120m_depth": {
+   "links": 54,
+   "rmse": 0.2514,
+   "depth_cost_m": 116.0
+  }
+ },
+ "posterior": {
+  "full": {
+   "links": 150,
+   "rmse": 0.2612,
+   "depth_cost_m": 176.0
+  },
+  "matched_62_emissions": {
+   "links": 142,
+   "rmse": 0.262,
+   "depth_cost_m": 176.0
+  },
+  "matched_120m_depth": {
+   "links": 79,
+   "rmse": 0.2682,
+   "depth_cost_m": 116.0
+  }
+ },
+ "uniform": {
+  "full": {
+   "links": 150,
+   "rmse": 0.2781,
+   "depth_cost_m": 1196.0
+  },
+  "matched_62_emissions": {
+   "links": 85,
+   "rmse": 0.3111,
+   "depth_cost_m": 686.0
+  },
+  "matched_120m_depth": {
+   "links": 12,
+   "rmse": 0.3514,
+   "depth_cost_m": 114.0
+  }
+ },
+ "random": {
+  "full": {
+   "links": 150,
+   "rmse": 0.2797,
+   "depth_cost_m": 1226.0
+  },
+  "matched_62_emissions": {
+   "links": 84,
+   "rmse": 0.2867,
+   "depth_cost_m": 736.0
+  },
+  "matched_120m_depth": {
+   "links": 11,
+   "rmse": 0.3413,
+   "depth_cost_m": 119.0
+  }
+ }
+}

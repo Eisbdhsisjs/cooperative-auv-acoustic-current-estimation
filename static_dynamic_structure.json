@@ -1,0 +1,66 @@
+{
+ "dynamic": {
+  "rmse": 0.2484,
+  "structure": [
+   {
+    "depth": 4.0,
+    "peak_rmse": 0.159,
+    "n_vortices_true": 3,
+    "n_vortices_est": 3,
+    "vortex_displacement_km": 6.084,
+    "structure_area_true_km2": 100.0,
+    "structure_area_est_km2": 73.12
+   },
+   {
+    "depth": 10.0,
+    "peak_rmse": 0.068,
+    "n_vortices_true": 3,
+    "n_vortices_est": 2,
+    "vortex_displacement_km": 3.713,
+    "structure_area_true_km2": 100.0,
+    "structure_area_est_km2": 79.63
+   },
+   {
+    "depth": 18.0,
+    "peak_rmse": 0.265,
+    "n_vortices_true": 1,
+    "n_vortices_est": 1,
+    "vortex_displacement_km": 3.76,
+    "structure_area_true_km2": 36.2,
+    "structure_area_est_km2": 67.17
+   }
+  ]
+ },
+ "static": {
+  "rmse": 0.256,
+  "structure": [
+   {
+    "depth": 4.0,
+    "peak_rmse": 0.123,
+    "n_vortices_true": 3,
+    "n_vortices_est": 2,
+    "vortex_displacement_km": 4.427,
+    "structure_area_true_km2": 100.0,
+    "structure_area_est_km2": 57.24
+   },
+   {
+    "depth": 10.0,
+    "peak_rmse": 0.052,
+    "n_vortices_true": 3,
+    "n_vortices_est": 2,
+    "vortex_displacement_km": 3.426,
+    "structure_area_true_km2": 100.0,
+    "structure_area_est_km2": 88.31
+   },
+   {
+    "depth": 18.0,
+    "peak_rmse": 0.239,
+    "n_vortices_true": 1,
+    "n_vortices_est": 1,
+    "vortex_displacement_km": 1.637,
+    "structure_area_true_km2": 36.2,
+    "structure_area_est_km2": 75.97
+   }
+  ]
+ }
+}

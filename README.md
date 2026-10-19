@@ -1,5 +1,4 @@
-# cooperative-auv-acoustic-current-estimation
-Simulation code and result files for "A Simulation Study of Cooperative AUV Acoustic Sensing for Ocean Current Field Estimation"# Supplementary Code S1
+# Supplementary Code S1
 
 Minimal code and result package for the manuscript
 *A Simulation Study of Cooperative AUV Acoustic Sensing for Ocean Current Field
@@ -86,5 +85,3 @@ The manuscript combines two implementations:
 
 No license is asserted in this review package. The authors should choose a
 license (for example MIT or Apache-2.0) before public archiving.
-
-[README.md](https://github.com/user-attachments/files/33652966/README.md)
